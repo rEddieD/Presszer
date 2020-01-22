@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Projects\Presszer\main.cpp(40,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Presszer\main.cpp(49,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Projects\Presszer\main.cpp(315,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Presszer.vcxproj -> D:\Projects\Presszer\Debug\Presszer.exe
